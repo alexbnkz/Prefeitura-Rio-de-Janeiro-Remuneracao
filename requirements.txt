@@ -3,7 +3,6 @@ bs4==0.0.1
 certifi==2019.3.9
 chardet==3.0.4
 coverage==4.5.3
-django==3.0
 Faker==1.0.5
 idna==2.8
 json-encoder==0.4.4
