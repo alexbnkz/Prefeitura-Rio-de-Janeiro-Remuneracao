@@ -23,6 +23,8 @@ ROOT_DIR = os.path.realpath(os.path.dirname(__file__))
 # you can get data from customized search
 # or set search = None to get ALL 
 search = [
+    'Empresa Municipal de Informática S.A.',
+    'Secretaria Municipal de Saúde',
     'Secretaria Municipal de Urbanismo'
 ]
 
