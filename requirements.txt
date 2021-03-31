@@ -6,7 +6,7 @@ coverage==4.5.3
 Faker==1.0.5
 idna==2.8
 json-encoder==0.4.4
-lxml==4.3.3
+lxml==4.6.3
 Pillow==7.0.0
 proxy-requests==0.3.0
 pytesseract==0.3.2
