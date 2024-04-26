@@ -4,7 +4,7 @@ certifi==2019.3.9
 chardet==3.0.4
 coverage==4.5.3
 Faker==1.0.5
-idna==2.8
+idna==3.7
 json-encoder==0.4.4
 lxml==4.6.5
 Pillow==8.3.2
